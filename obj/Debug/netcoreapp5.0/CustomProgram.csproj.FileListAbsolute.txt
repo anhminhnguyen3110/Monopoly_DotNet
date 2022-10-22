@@ -1,0 +1,56 @@
+C:\Users\Admin\Desktop\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.exe
+C:\Users\Admin\Desktop\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.deps.json
+C:\Users\Admin\Desktop\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.json
+C:\Users\Admin\Desktop\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\refint\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CustomProgram\obj\Debug\netcoreapp5.0\ref\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\CustomProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\refint\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram - ver2\bin\Debug\netcoreapp5.0\CustomProgram.exe
+C:\Users\Admin\Desktop\CustomProgram - ver2\bin\Debug\netcoreapp5.0\CustomProgram.deps.json
+C:\Users\Admin\Desktop\CustomProgram - ver2\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.json
+C:\Users\Admin\Desktop\CustomProgram - ver2\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CustomProgram - ver2\bin\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2\bin\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\CustomProgram.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2\obj\Debug\netcoreapp5.0\ref\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\bin\Debug\netcoreapp5.0\CustomProgram.exe
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\bin\Debug\netcoreapp5.0\CustomProgram.deps.json
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.json
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\bin\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\bin\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\CustomProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\refint\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\CustomProgram.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy\obj\Debug\netcoreapp5.0\ref\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\bin\Debug\netcoreapp5.0\CustomProgram.exe
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\bin\Debug\netcoreapp5.0\CustomProgram.deps.json
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.json
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\bin\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\bin\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\CustomProgram.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\refint\CustomProgram.dll
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\CustomProgram.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CustomProgram - ver2 - Copy - Copy\obj\Debug\netcoreapp5.0\ref\CustomProgram.dll
